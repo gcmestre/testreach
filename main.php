@@ -2,5 +2,6 @@
 
 echo "hello"
 
+echo "end"
 
 </php>
